@@ -65,8 +65,4 @@ Ingresa el dominio a analizar (ej: gruasslp.com): ejemplo.com
 Esta herramienta es solo para fines educativos y de seguridad defensiva. Úsala únicamente en dominios que tengas autorización para analizar.
 ```
 
-Guarda el archivo y corre estos comandos para subir el README a GitHub:
-```
-git add README.md
-git commit -m "agrega README"
-git push
+
