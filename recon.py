@@ -66,7 +66,7 @@ def escanear_puertos(dominio):
             sock.settimeout(1)
             resultado = sock.connect_ex((ip, puerto))
             if resultado == 0:
-                print(f"  ✅ Puerto {puerto} ({servicio}) — ABIERTO")
+                print(f"   Puerto {puerto} ({servicio}) — ABIERTO")
             sock.close()
             
     except Exception as e:
@@ -97,7 +97,7 @@ def buscar_subdominios(dominio):
 
 def main():
     dominio = input("Ingresa el dominio a analizar (ej: gruasslp.com): ").strip()
-    print(f"\n🔍 Analizando: {dominio}\n")
+    print(f"\n Analizando: {dominio}\n")
     print("=" * 50)
     
     buscar_subdominios(dominio)
