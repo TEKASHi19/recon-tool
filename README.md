@@ -49,8 +49,8 @@ Ingresa el dominio a analizar (ej: gruasslp.com): ejemplo.com
 [+] ESCANEO DE PUERTOS
 ------------------------------
   IP: 192.178.56.142
-  ✅ Puerto 80 (HTTP) — ABIERTO
-  ✅ Puerto 443 (HTTPS) — ABIERTO
+   Puerto 80 (HTTP) — ABIERTO
+   Puerto 443 (HTTPS) — ABIERTO
 
 [+] METADATOS DE PDFs
 ------------------------------
