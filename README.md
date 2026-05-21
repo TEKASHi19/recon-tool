@@ -60,9 +60,3 @@ Ingresa el dominio a analizar (ej: gruasslp.com): ejemplo.com
     /CreationDate: 2023-04-15
 ```
 
-## Disclaimer
-
-Esta herramienta es solo para fines educativos y de seguridad defensiva. Úsala únicamente en dominios que tengas autorización para analizar.
-```
-
-
